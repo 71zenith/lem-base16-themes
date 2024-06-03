@@ -3866,6 +3866,9 @@
   :base0E "#b6a0ff"
   :base0F "#12154a")
 
+;; Scheme: oxocarbon-dark
+;; Scheme author: shaunsingh
+
 (define-base16-color-theme "oxocarbon-dark"
   :base00 "#161616"
   :base01 "#262626"
@@ -3883,6 +3886,9 @@
   :base0D "#42be65"
   :base0E "#be95ff"
   :base0F "#82cfff")
+
+;; Scheme: oxocarbon-light
+;; Scheme author: shaunsingh
 
 (define-base16-color-theme "oxocarbon-light"
   :base00 "#f2f4f8"
